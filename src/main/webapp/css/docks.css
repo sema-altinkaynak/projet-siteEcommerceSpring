@@ -1,0 +1,13 @@
+
+#is-free {
+	color: #5a5;
+}
+
+#is-not-free {
+	color: #A51D2D;
+}
+
+.required-symb {
+	color:red;
+	font-weight: bold;
+}
